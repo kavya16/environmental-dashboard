@@ -2,8 +2,6 @@ import React, { useEffect, useState } from 'react';
 import axios from 'axios';
 import { Bar } from 'react-chartjs-2';
 
-
-
 function App() {
   const [environmentalData, setEnvironmentalData] = useState([]);
 
