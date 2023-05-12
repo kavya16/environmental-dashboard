@@ -1,0 +1,25 @@
+{
+  "environmentalData": [
+    {
+      "id": 1,
+      "facility": "Facility A",
+      "temperature": 25,
+      "humidity": 60,
+      "airQuality": 80
+    },
+    {
+      "id": 2,
+      "facility": "Facility B",
+      "temperature": 27,
+      "humidity": 55,
+      "airQuality": 75
+    },
+    {
+      "id": 3,
+      "facility": "Facility C",
+      "temperature": 23,
+      "humidity": 58,
+      "airQuality": 78
+    }
+  ]
+}
